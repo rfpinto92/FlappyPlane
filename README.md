@@ -14,7 +14,7 @@ All music and sounds are free of copy rights, and some of the 3D objects are par
 
 - Change plataform to Android
 - Import TPM Fonts and Accept Google Conditions
-- Change Resolution to 1080 x 2340 Pixels 
+- Change Resolution to 1080 x 2340 Pixels (LandScaped)
 
 
 # 🚀 About Me
